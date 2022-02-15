@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/nicollecnunes/nicollecnunes/blob/main/Hi.gif" alt="hi gif" width="30px">, I'm Elisa</h1>
 
-<h3 align="left">Others || Learning:</h3>
+<h3 align="left">I'm Learning:</h3>
 <p align="left">
    <img alt="Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
