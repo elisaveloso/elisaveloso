@@ -38,7 +38,7 @@
   </div>
 <!--<br></br><br></br><br></br><br></br>-->
 
-<a href="https://github.com/nicollecnunes/certificates"><h3 align="left">Certificates here</h3></a>
+<a href="https://drive.google.com/drive/folders/1wf2kTyqg8lDvf6MQMUpnpxmqo4n5d2Lo?usp=sharing"><h3 align="left">Certificates here</h3></a>
 <a href="https://drive.google.com/drive/folders/1wf2kTyqg8lDvf6MQMUpnpxmqo4n5d2Lo?usp=sharing" target="blank"><img align="center" src="https://www.svgrepo.com/show/144649/certificate.svg" alt="certificates" height="10" width="13" /></a>
 
 <h3 align="left">Connect with me:</h3>
