@@ -41,7 +41,7 @@
 </p>
   </div>
 
-<a href="https://github.com/elisaveloso/Certificates"> align="left"><h3>Certificates here</h3></a>
+<a href="https://github.com/elisaveloso/Certificates"><h3 align="left">Certificates here</h3></a>
 
 <h3 align="left">Connect with me:</h3>
 
