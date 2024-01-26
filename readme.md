@@ -2,7 +2,7 @@
 <!-- <h1 align="center">Elisa</h1> -->
 
 <div class="row">
-<h3 align="left">Data Science, Computer Vision and M.L.</h3>
+<h3 align="left">Data Science, Data Analysis, Computer Vision and M.L.</h3>
 <p align="left">
    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
