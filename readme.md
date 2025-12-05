@@ -29,10 +29,10 @@
 
 <br>
 
-<div>
+<!-- <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisaveloso&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="elisaveloso" />
 </p>
-  </div>
+  </div> -->
 
 <!-- <a href="https://github.com/elisaveloso/Certificates" target="blank"><h3 align="left">Certificates here</h3></a> -->
 
