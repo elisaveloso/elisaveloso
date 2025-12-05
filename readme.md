@@ -3,6 +3,8 @@
 
 <div class="row">
 <h3 align="left">Data Science, Data Analysis, Computer Vision and M.L.</h3>
+<h2 align="left">   ★ Technologies: TensorFlow, OpenCV, Keras, Computer Vision, Python, PowerBI</h2>
+<h2 align="left">   ★ Applications: Data processing, Image Classification and Recognition, Image Segmentation, Software Development, Research and Development (R&D), Statistical Analysis</h2>
 <p align="left">
    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
